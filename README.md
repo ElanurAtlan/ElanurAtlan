@@ -1,7 +1,7 @@
 - 👋 merhaba ben Elanur ATLAN
 - 👀 Bilgisayar programcısıyım
 - 👀 Yazılım öğreniyorum ve kendimi geliştiriyorum
-- 🌱 Şuan da c# öğreniyorum
+- 🌱 Asp.net mvc ile projeler yapıyorum
 - 💞️ C# üzerinde projeler geliştiriyorum
 - 📫 Bana buradan ulaşabilirsiniz
 - 
